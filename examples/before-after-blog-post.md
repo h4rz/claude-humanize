@@ -1,6 +1,6 @@
 # Before / After: blog post
 
-Source: ChatGPT, default settings, prompt was *"Write a 250-word blog post about why morning routines matter for productivity."*
+Source: AI-generated text, default settings, prompt was *"Write a 250-word blog post about why morning routines matter for productivity."*
 
 Detector: ZeroGPT.
 
@@ -11,7 +11,7 @@ Detector: ZeroGPT.
 
 ---
 
-## Before — raw ChatGPT output
+## Before — raw AI output
 
 > # Why Morning Routines Matter for Productivity
 >

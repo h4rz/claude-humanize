@@ -102,7 +102,7 @@ Detectors and human readers both catch these instantly. They're mechanical — e
 3. **Mechanical boldface** — AI bolds key terms reflexively mid-sentence. Humans rarely do this. Strip almost all bold that isn't truly needed
 4. **Inline-header bullet lists** — the `- **User Experience:** The UX has been significantly improved` pattern is a dead giveaway. Rewrite as flowing prose or use plain bullets without the bolded header
 5. **Decorative emojis** — 🚀 💡 ✅ at the start of headings or bullets is pure AI styling. Remove unless the context specifically calls for them (some social posts)
-6. **Curly quotes** — ChatGPT outputs curly typographic quotes (" ") by default. Real people type straight quotes (" "). Swap them
+6. **Curly quotes** — AI tools output curly typographic quotes (" ") by default. Real people type straight quotes (" "). Swap them
 
 ## Calibrating formality
 
