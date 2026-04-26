@@ -1,0 +1,13 @@
+{
+  "name": "humanize",
+  "version": "0.1.0",
+  "description": "Rewrite AI-generated text so it reads like a real person wrote it. Targets self-evals, cover letters, blog posts, essays, and applications. Teaches the patterns as it rewrites.",
+  "author": {
+    "name": "h4rz",
+    "url": "https://github.com/h4rz"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/h4rz/claude-humanize",
+  "repository": "https://github.com/h4rz/claude-humanize",
+  "keywords": ["humanize", "ai-detection", "writing", "rewriting", "gptzero", "zerogpt"]
+}
